@@ -2,7 +2,7 @@
 
 Este repositório contém a documentação completa da arquitetura do sistema desenvolvido para o Trabalho de Conclusão de Curso (TCC). Aqui você encontrará a visão geral, componentes, tecnologias, diagramas e links para cada parte da solução.
  
----
+----
 
 ## 🏗️ Visão Geral da Arquitetura
 
