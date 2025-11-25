@@ -21,7 +21,7 @@ Além disso, a estratégia event-driven contribui para aumentar a resiliência d
 ---
 
 ## 📐 Diagrama da Arquitetura
-![Minha Imagem](images/arquitetura_solidario_mais_tcc.jpeg)
+![Minha Imagem](./images/arquitetura_solidario_mais_tcc.jpeg)
 *O S3 está servindo como representatividade da vercel, pois nao achamos ícone na ferramenta que utilizamos para diagramar a arquitetura
 
 ---
